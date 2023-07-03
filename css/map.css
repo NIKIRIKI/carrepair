@@ -1,0 +1,18 @@
+.map {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.map h2 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 150%;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.block-map {
+    display: flex;
+    justify-content: center;
+}
